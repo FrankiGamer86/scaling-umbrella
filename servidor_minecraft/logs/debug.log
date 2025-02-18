@@ -616,3 +616,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Feb2025 00:04:57.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Feb2025 00:08:25.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrFrankyie lost connection: Disconnected
 [18Feb2025 00:08:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrFrankyie left the game
+[18Feb2025 00:09:57.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 00:09:57.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 00:14:57.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 00:14:57.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
